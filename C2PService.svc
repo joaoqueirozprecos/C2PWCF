@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="C2P.WCF.C2PService" CodeBehind="C2PService.svc.cs" %>
